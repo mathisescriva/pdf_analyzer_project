@@ -1,0 +1,104 @@
+This document provides you with key information about this investment product. It is not marketing material. The information is required by law to help you understand the nature, risks, costs, potential gains and losses of this product and to help you compare it with other products.
+
+**Product:**
+5Y Jump Certificate SOLEDVSP with 87.50% Protection
+
+**ISIN:**
+XS1914695009
+
+**Manufacturer:**
+BNP Paribas S.A. - www.bnpparibas.com
+
+**Issuer:**
+BNP Paribas Issuance B.V.
+
+**Guarantor:**
+BNP Paribas S.A.
+
+**Listing:**
+[TBD]
+
+**Competent Authority:**
+Autorité des marchés financiers (AMF)
+
+**KID Production Date:**
+03 December 2022 03:25:05 CET
+
+**Objective:**
+The objective of this product is to provide you with a return based on the performance of an underlying index.
+
+**Redemption:**
+a. If the Final Reference Price is greater than or equal to 87.5% of the Initial Reference Price: a payment in cash equal to the Notional Amount decreased by the Performance of the Underlying. In this case you may suffer a partial loss of maximum of 12.5% of the Notional Amount.
+b. If the Final Reference Price is less than 87.5% of the Initial Reference Price: a payment in cash of 87.5% of the Notional Amount. In this case you will suffer a partial loss of the Notional Amount.
+
+**Where:**
+- The Performance of an Underlying is the difference between its Final Reference Price and its Initial Reference Price, divided by its Initial Reference Price, expressed in absolute value.
+- The Initial Reference Price is the closing price of the Underlying on the Strike Date.
+- The Final Reference Price is the closing price of the Underlying on the Redemption Valuation Date.
+
+**Product Data:**
+- Strike Date: 26 April 2019
+- Issue Date: 03 May 2019
+- Redemption Valuation Date: 26 April 2024
+- Redemption Date (maturity): 03 May 2024
+
+**Underlying:**
+Solactive European Deep Value Select 50 Index
+
+**Bloomberg Code:**
+SOLEDVSP
+
+**Product Terms:**
+The product terms provide that if certain exceptional events occur (1) adjustments may be made to the product and/or (2) the Issuer of the product may terminate the product early. These events are specified in the product terms and principally relate to the Underlying(s), the product and the Issuer of the product. The return (if any) you receive on such early termination is likely to be different from the scenarios described above and may be less than the amount you invested.
+
+**All redemptions described in this document (including potential gains) are calculated on the basis of the Notional Amount, excluding costs, social contributions and taxation applicable to this type of investment.**
+
+**Intended Retail Investor:**
+This product has been designed for retail investors who:
+- have a short term investment horizon (less than three years).
+- seek to invest in a capital growth product, potentially to diversify their portfolio.
+- are able to bear limited losses at maturity, up to 12.5% of the Notional Amount.
+- have been informed or have sufficient knowledge of the financial markets, their functioning and their risks, and the asset class of the underlying.
+
+Page 2:
+system
+You are a helpful assistant.
+user
+
+            You are analyzing a financial document and currently processing page 2.
+            Please follow these instructions strictly:
+            1. Identify and extract only the information explicitly present on this page. If an item is missing, write "Not present".
+            2. For costs, risk indicators, and performance data, provide exact details from the page without assuming missing information.
+            3. Enumerate all tables found and summarize their contents.
+            4. Validate all ISIN numbers and identifiers against their standard format.
+            
+assistant
+Based on the information provided on page 2, here is the extracted and summarized content:
+
+### RISK INDICATOR
+- **Lower Risk**: 3
+- **Higher Risk**: 7
+
+### PERFORMANCE SCENARIOS
+- **Stress Scenario**: EUR 9113.11, EUR 9311.93
+- **Unfavourable Scenario**: EUR 9686.59, EUR 9311.93
+- **Moderate Scenario**: EUR 10209.38, EUR 9311.93
+- **Favourable Scenario**: EUR 12872.49, EUR 14899.09
+
+### WHAT HAPPENS IF BNP PARIBAS S.A. IS UNABLE TO PAY OUT?
+- **Issuer Default or File for Bankruptcy**: You have the right to seek payment from the Guarantor pursuant to an unconditional and irrevocable guarantee of any amount due.
+- **Guarantor Default or File for Bankruptcy**: You may suffer a loss up to the total amount invested.
+
+### WHAT ARE THE COSTS?
+- **Total Costs**: EUR 108.11
+- **Impact on Return (RIY) per Year**: 1.08%
+
+### COMPOSITION OF COSTS
+- **BNP Paribas**: EUR 108.11
+- **Other Costs**: EUR 50.87
+
+### ISIN Numbers
+- **BNP Paribas**: Not present
+
+### Summary
+The document provides information on the risk indicator, performance scenarios, potential losses in case of stress, unfavourable, moderate, and favourable scenarios, and the costs associated with the investment. The composition of costs is also outlined.
